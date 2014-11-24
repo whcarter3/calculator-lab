@@ -1,25 +1,23 @@
-button {
+.buttons {
 	padding: 10px;
 	font-size: 14px;
+	background-color: lightblue;
+	border-radius: 100%;
 }
 
 .display {
-	padding: 5px 25px;
+	padding: 8px 25px;
 	border: 1px solid black;
+	border-radius: 2px;
 	margin-bottom: 5px;
 }
 
-table {
-	border: 2px solid green;
-}
-
-
-
-.calculator {
+.container {
 	border-style: outset;
 	border-radius: 3px;
 	border-color: orange;
 	border-width: 4px;
 	display: inline-block;
 	padding: 3px;
+	background-color: grey;
 }
