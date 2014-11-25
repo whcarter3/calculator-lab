@@ -4,13 +4,13 @@
 	background: radial-gradient(circle, #fff 20%, #ccc);
 	background-size: cover;
 }*/
-body {
-	width: 800px;
+html {
+	background: radial-gradient(circle, #fff 20%, #ccc);
 }
 .calculator {
 	border-style: outset;
 	border-radius: 3px;
-	border-color: orange;
+	border-color: darkolivegreen;
 	border-width: 10px;
 	display: inline-block;
 	padding: 10px;
@@ -19,6 +19,7 @@ body {
 	background-size: cover;
 	margin: 10% 50% 100px 50%;
 	display: inline-block;
+	box-shadow: 10px 10px 10px #888888;
 	
 
 }
@@ -55,6 +56,7 @@ button {
 	padding: 20px;
 	font-size: 25px;
 	font-family: courier;
+	font-weight: bold;
 	background-color: lightblue;
 	border-radius: 8px;
 
