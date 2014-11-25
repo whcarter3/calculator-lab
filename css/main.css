@@ -35,8 +35,8 @@ html {
 	font-weight: bold;
 	font-size: 50px;
 	padding: 0;
-	line-height: 0;
-	display: inline-block;
+/*	line-height: 0;
+*/	display: inline-block;
 	width: 250px;
 	background-color: lightgray;
 
