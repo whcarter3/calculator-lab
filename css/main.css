@@ -1,15 +1,16 @@
-.buttons {
+button {
 	padding: 10px;
 	font-size: 14px;
 	background-color: lightblue;
 	border-radius: 100%;
 }
 
-.display {
+#display {
 	padding: 8px 25px;
 	border: 1px solid black;
 	border-radius: 2px;
 	margin-bottom: 5px;
+	z-index: 1;
 }
 
 .container {
