@@ -31,9 +31,9 @@ buttons[8].onclick = function() { display.value += this.value };
 buttons[9].onclick = function() { display.value += this.value };
 buttons[10].onclick = function() { display.value += this.value };
 buttons[11].onclick = function() { display.value += this.value };
-buttons[12].onclick = function() { display.value += this.value };
-buttons[13].onclick = function() { display.value = eval(display.value)};
-buttons[14].onclick = function() { display.value = this.value };
+buttons[12].onclick = function() { display.value = this.value };
+buttons[13].onclick = function() { display.value += this.value};
+buttons[14].onclick = function() { display.value = eval(display.value)};
 buttons[15].onclick = function() { display.value += this.value };
 
 
